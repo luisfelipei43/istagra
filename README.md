@@ -1,2 +1,0 @@
-# istagra
-Bomm
